@@ -6,11 +6,10 @@ So go ahead and recreate your imaginations in the air !
 
 [![Made with Python](https://img.shields.io/badge/Made%20with%20-Python-red?style=for-the-badge&logo=python)](http://www.python.org/)
 [![Made with TfLite](https://img.shields.io/badge/Made%20with%20-Tf%20Lite-yellow?style=for-the-badge&logo=tensorflow)](http://www.tensorflow.org/)
-[![LinkedIn-profile](https://img.shields.io/badge/LinkedIn-Parthsarthi-blue?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/parthsarthi-gupta-265b9816a)[![GitHub followers](https://img.shields.io/github/followers/Severus11?label=Follow&style=social)](https://github.com/Severus11?tab=followers) [![GitHub stars](https://img.shields.io/github/stars/Severus11/Virtual-Air-Painting.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Severus11/Virtual-Air-Painting/stargazers/)
 ### Cloning
 Use the link below to close this repository to your machine.
 ```bash
-$ https://github.com/Severus11/Virtual-Air-Painting.git
+$ https://github.com/Abhay0809/Virtual-Painter
 ```
 ## Directory Contents
 ```bash
