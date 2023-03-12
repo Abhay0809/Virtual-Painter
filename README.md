@@ -8,6 +8,7 @@ So go ahead and recreate your imaginations in the air!
 [![Made with TfLite](https://img.shields.io/badge/Made%20with%20-Tf%20Lite-yellow?style=for-the-badge&logo=tensorflow)](http://www.tensorflow.org/)
 
 ### Cloning
+
 Use the link below to close this repository to your machine.
 ```bash
 $ https://github.com/Abhay0809/Virtual-Painter
