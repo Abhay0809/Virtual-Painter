@@ -13,7 +13,9 @@ Use the link below to close this repository to your machine.
 ```bash
 $ https://github.com/Abhay0809/Virtual-Painter
 ```
+
 ## Directory Contents
+
 ```bash
 $ cd Virtual-Air-Painting/
 $ tree
