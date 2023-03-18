@@ -3,7 +3,6 @@
 This is an application that enables one to **vitually paint in the air** using their fingers. It is developed in python **on openCV, TfLite and Mediapipe**.
 So go ahead and recreate your imaginations in the air!
 
-
 [![Made with Python](https://img.shields.io/badge/Made%20with%20-Python-red?style=for-the-badge&logo=python)](http://www.python.org/)
 [![Made with TfLite](https://img.shields.io/badge/Made%20with%20-Tf%20Lite-yellow?style=for-the-badge&logo=tensorflow)](http://www.tensorflow.org/)
 
