@@ -73,6 +73,3 @@ https://user-images.githubusercontent.com/36445722/119236976-00cec880-bb58-11eb-
 #### The fun part is that it runs on your phone too !
 
 https://user-images.githubusercontent.com/36445722/119236972-fca2ab00-bb57-11eb-8eed-5a3b26a67495.mp4
-
-
-
