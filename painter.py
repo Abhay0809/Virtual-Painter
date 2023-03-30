@@ -16,7 +16,6 @@ header_img = "Images"
 header_img_list = os.listdir(header_img)
 overlay_image =[]
 
-
 for i in header_img_list:
     image = cv2.imread(f'{header_img}/{i}')
     overlay_image.append(image)
