@@ -63,6 +63,3 @@ $ python3 run app.py
 - To change color/ use eraser, use index and middle fingers to select it by hovering on it.
 - Continue painting !
 
-
-
-
