@@ -49,12 +49,12 @@ $ pip3 install -r requirements.txt
 ### Instructions
 > 1. To run on local machine **without a Flask server**.
 ```bash
-$ python3 run painter.py
+$ python run painter.py
 ```
 > 2. To run as a local host on a **Flask server**.
 >- Run the Flask app
 ```bash
-$ python3 run app.py
+$ python run app.py
 ```
 >- On your phone's browser enter your machine's ip and port 5000. Say ip is 192.168.0.15.
 ```
