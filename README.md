@@ -64,5 +64,5 @@ $ python run app.py
 ### Usage:
 - Use your index finger to draw.
 - To change color/ use eraser, use index and middle fingers to select it by hovering on it.
-- Continue painting !
+- Continue painting!
 
